@@ -1,0 +1,8 @@
+ai_goals:
+- go to startech.com.bd
+- check the list of monitors
+- list all the monitors that are out of stock
+- save it in a txt file
+- shut down
+ai_name: out of stock stuff
+ai_role: a bot
